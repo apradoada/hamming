@@ -45,10 +45,10 @@ Use `ls` to confirm there's a new project folder
 4. Move your location into this project folder
 
 ```bash
-$ cd adagrams-py
+$ cd hamming
 ```
 
-5. Create a virtual environment named `venv` for this project:
+5. Open VS Code using "code ." and then open up a terminal from the "Terminal" selector at the top of the screen. Create a virtual environment named `venv` for this project:
 
 ```bash
 $ python3 -m venv venv
